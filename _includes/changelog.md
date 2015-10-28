@@ -1,18 +1,18 @@
 # SDP Releases
 
-# 0.5.2 - 10/26/2015
+# 0.5.2
 
 - Bugfixes
   - https://github.umn.edu/asrweb/sdp/pull/182
 
-# 0.5.1 - 10/26/2015
+# 0.5.1
 
 - After processing an audit, remove audits for all degrees the student is not pursuing.
   - https://github.umn.edu/asrweb/sdp/issues/167
 - Process queued students every 20 minutes
   - https://github.umn.edu/asrweb/sdp/pull/181
 
-# 0.5.0 - 10/16/2015
+# 0.5.0
 
 - Determine a Student's degrees using Live Peoplesoft data
 - Degrees with a acad_plan_type of NDG are no longer audited.
@@ -47,4 +47,3 @@ This is a new way of putting audits into "buckets". Classifications make it easi
 - Refactoring of the process of auditing a student
 - Removed the 'etl_unpreparable_audits' table and all unpreparable logic
 - This is now handled by the DprogIsNil fact
-

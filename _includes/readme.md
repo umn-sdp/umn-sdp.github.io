@@ -1,90 +1,108 @@
-name:README.md path:README.md sha:926218b409fa6a9ba4f730537e310ab830652a27 size:3964 url:https://github.umn.edu/api/v3/repos/asrweb/sdp/contents/README.md?ref=master html_url:https://github.umn.edu/asrweb/sdp/blob/master/README.md git_url:https://github.umn.edu/api/v3/repos/asrweb/sdp/git/blobs/926218b409fa6a9ba4f730537e310ab830652a27 download_url:https://raw.github.umn.edu/asrweb/sdp/master/README.md?token=AAAC1jkE14X6xeIaD5l1viUjX6dcC19bks5WMS4_wA%3D%3D type:file content:U3R1ZGVudCBEZWdyZWUgUHJvZ3Jlc3MKPT09PT09PT09PT09PT09PT09PT09
-PT09PT0KCiMjIE92ZXJ2aWV3CgpSdW5zIFtBUEFTXSgjYXBhcykgYW5kIHNh
-dmVzIHRoZSByZXN1bHRzLiBBZnRlciBzYXZpbmcsIGRlcml2ZXMgW0ZhY3Rz
-XSgjZmFjdHMpIGFib3V0IHRoZSBBUEFTIHRoYXQgY2FuIGJlIHVzZWQgZm9y
-IHJlcG9ydGluZyBhbmQgYW5hbHl0aWNzLgoKIyMjIFdoaWNoIHN0dWRlbnRz
-IGFyZSBhdWRpdGVkPwoKQ3VycmVudGx5IFNEUCBmb2N1c2VzIG9uIFVuZGVy
-Z3JhZCBzdHVkZW50cyBhdCBVTU5UQy4KCiMjIyBXaGVuIGRvZXMgU0RQIGF1
-ZGl0IGEgc3R1ZGVudD8KClRoZXJlIGFyZSBhIGNvbGxlY3Rpb24gb2YgdG9v
-bHMgdGhhdCB3YXRjaCBmb3IgY2hhbmdlcyB0byBTdHVkZW50IG9yIERlZ3Jl
-ZSBkYXRhLiBXaGVuIHRoYXQgZGF0YSBjaGFuZ2VzLCB0aG9zZSB0b29scyB0
-ZWxsIFNEUCB0byBhdWRpdCB0aGUgYWZmZWN0ZWQgc3RkdW50cy4KCkFsc28s
-IGFub3RoZXIgdG9vbCB3aWxsIHRlbGwgU0RQIHRvIGF1ZGl0IGFueSBTdHVk
-ZW50IHdpdGggYSBbU3RhbGUgQXVkaXRdKCNzdGFsZV9hdWRpdCkuCgojIyMg
-V2hhdCBnZXRzIGF1ZGl0ZWQ/CgpXaGVuIFNEUCBbYXVkaXRzXSgjYXVkaXQp
-IGEgc3R1ZGVudCwgaXMgdXNlcyBsaXZlIFBlb3BsZVNvZnQgZGF0YSB0byBk
-ZXRlcm1pbmUgdGhlIHN0dWRlbnRzIFtQdXJzdWVkIERlZ3JlZXNdKCNwdXJz
-dWVkX2RlZ3JlZSkuIFNEUCB0aGVuIGF1ZGl0cyBhbnkgb2YgdGhvc2UgZGVn
-cmVlcyB0aGF0IG1lZXQgdGhlIGZvbGxvd2luZyBjcml0ZXJpYToKCi0gQXJl
-IGZvciB0aGUgVUdSRCBhY2FkX2NhcmVlcgotIEFyZSBmb3IgdGhlIFVNTlRD
-IGluc3RpdHV0aW9uCi0gQXJlIG5vdCBSb2NoZXN0ZXIgZGVncmVlcyAoZS5n
-LiwgYWNhZF9wcm9nIG9mIDM0VUdSKQotIEFyZSBkZWdyZWUgc2Vla2luZyAo
-ZS5nLiwgYWNhZF9wbGFuX3R5cGUgaXMgbm90IE5ERykKLSBIYXZlIGFuIGFk
-bWl0IHRlcm0gb2YgMDk5OSBvciBsYXRlcgoKSWYgU0RQIGhhcyBhIFtGcm96
-ZW4gQXVkaXRdKCNmcm96ZW4pIGZvciBhbnkgb2YgdGhlc2UgZGVncmVlcywg
-aXQgZG9lcyBub3QgcmUtYXVkaXQgdGhlIGRlZ3JlZS4KCiMjIyBXaGF0IGdl
-dHMgcmV0YWluZWQ/CgpTRFAga2VlcHMgb25lIEFQQVMgZm9yIGVhY2ggW0Rl
-Z3JlZV0oI2RlZ3JlZSkuIEFQQVMgZm9yIERlZ3JlZXMgdGhlIHN0dWRlbnQg
-aXMgbm8gbG9uZ2VyIHB1cnN1aW5nIGFyZSByZW1vdmVkLgoKIyMgQW5hbHl0
-aWNzCgpGb2N1c2VzIG9uIFtSZXBvcnRhYmxlIEF1ZGl0c10oI3JlcG9ydGFi
-bGUpLgoKLSBXb3JrIHdpdGggRnJpdHoKCiMjIERldmVsb3BtZW50CgotIFRv
-IGRvCgojIyBEaWN0aW9uYXJ5CgojIyMgQVBBUzxhIG5hbWU9ImFwYXMiPjwv
-YT4KCkFuIGFjYWRlbWljIHByb2dyZXNzIHJlcG9ydCBnZW5lcmF0ZWQgYnkg
-dGhlIERBUlMgc3lzdGVtLiBBIHNpbmdsZSBBUEFTIHdpbGwgcmVwb3J0IG9u
-IHRoZSBwcm9ncmVzcyBhIHN0dWRlbnQgaGFzIG1hZCBpbiBhIHNpbmdsZSBk
-ZWdyZWUgcHJvZ3JhbS4KCiMjIyBBdWRpdDxhIG5hbWU9ImF1ZGl0Ij48L2E+
-CgpBbiBBUEFTIHRoYXQgaGFzIGJlZW4gY29waWVkIGludG8gU0RQIGFuZCBn
-ZW5lcmF0ZWQgRmFjdHMgYWJvdXQuCgojIyMgRmFjdHM8YSBuYW1lPSJmYWN0
-cyI+PC9hPgoKQSBzbWFsbCBiaXQgb2YgaW5mb3JtYXRpb24gdGhhdCBoYXMg
-YmVlbiBjYWxjdWxhdGVkIGJ5IGFuYWx5emluZyB0aGUgQVBBUy4gVGhlcmUg
-YXJlIGEgbG90IG9mIHRoZXNlLiBFeGFtcGxlcyBpbmNsdWRlOgoKLSBDcmVk
-aXQgQ291bnQKLSBEZWdyZWUgQ29tcGxldGUKLSBNaXNzaW5nIFJlcXVpcmVt
-ZW50cwotIERlZ3JlZS1hcHBsaWNhYmxlIGNyZWRpdHMgcGVyIHF1YXJ0ZXIK
-CiMjIyMgRGVncmVlIENvbXBsZXRlIEZhY3QKCk9uZSBvZiB0aGUgbW9yZSBp
-bXBvcnRhbnQgZmFjdHMuIEFuIEF1ZGl0IGhhcyB0aGlzIGZhY3QgaWYgUGVv
-cGxlc29mdCBzYXlzIHRoYXQgdGhlICdwcm9nX3N0YXR1cycgaXMgJ0NNJy4K
-CiMjIyBSZXBvcnRhYmxlPGEgbmFtZT0icmVwb3J0YWJsZSI+PC9hPgoKQSB0
-eXBlIG9mIEF1ZGl0IGNsYXNzaWZpY2F0aW9uLiBBbiBBdWRpdCBpcyBSZXBv
-cnRhYmxlIGlmIGlzIFByb2Nlc3NlZCBhbmQgaGFzIG5vIFtEYXJzIEVycm9y
-c10oI2RhcnNfZXJyb3IpLgoKIyMjIFByb2Nlc3NlZDxhIG5hbWU9InByb2Nl
-c3NlZCI+PC9hPgoKQSB0eXBlIG9mIEF1ZGl0IGNsYXNzaWZpY2F0aW9uLiBX
-aGVuIHdlJ3ZlIGZpbmlzaGVkIGNvcHlpbmcgYW5kIGFuYWx5emluZyB0aGUg
-QVBBUyBkYXRhLCBhbiBhdWRpdCBpcyBQcm9jZXNzZWQuCgojIyMgRnJvemVu
-PGEgbmFtZT0iZnJvemVuIj48L2E+CgpBIHR5cGUgb2YgQXVkaXQgY2xhc3Np
-ZmljYXRpb24uIEFuIEF1ZGl0IGlzIEZyb3plbiBpZiBpcyBSZXBvcnRhYmxl
-IGFuZCBoYXMgdGhlIERlZ3JlZSBDb21wbGV0ZSBmYWN0LgoKIyMjIERhcnMg
-RXJyb3I8YSBuYW1lPSJkYXJzX2Vycm9yIj48L2E+CgpBIHR5cGUgb2YgQXVk
-aXQgY2xhc3NpZmljYXRpb24uIEFuIEF1ZGl0IGlzIERhcnMgRXJyb3IgaWYg
-aXQgZXhoaWJpdHMgYW55IG9mIHRoZSBrbm93biBEYXJzIEVycm9yIGNvbmRp
-dGlvbnMuIFRob3NlIGFyZToKCi0gU0RQIGNvdWxkIG5vdCBhdWRpdCB0aGUg
-ZGVncmVlIGJlY2F1c2UgaXQgY291bGQgbm90IGZpbmQgdGhlIERlZ3JlZSdz
-IFtEcHJvZ10oI2Rwcm9nKQotIERhcnMgdHJpZWQgdG8gcnVuIHRoZSBBUEFT
-IGJ1dCBmYWlsZWQKLSBUaGUgQVBBUyByYW4sIGJ1dCBhIGNvdXJzZSBpcyBt
-aXNzaW5nIGZyb20gdGhlIDMgJ3N0YW5kYXJkIGJ1Y2tldHMnIGF0IHRoZSBl
-bmQgb2YgdGhlIEFQQVMgcmVwb3J0CgojIyMgRGVncmVlPGEgbmFtZT0iZGVn
-cmVlIj48L2E+CgpTRFAncyB0ZXJtIGZvciB0aGUgam9pbmluZyBvZiBQZW9w
-bGVTb2Z0J3MgQWNhZF9Qcm9nIGFuZCBBY2FkX1BsYW4gdGFibGVzIHRvIERh
-cnMnIERwcm9nIHRhYmxlLiBUaGUgam9pbiBpcyBkb25lIHRocm91Z2ggdGhl
-ICdDcm9zc3dhbGsnIHRhYmxlLgoKIyMjIFB1cnN1ZWQgRGVncmVlPGEgbmFt
-ZT0icHVyc3VlZF9kZWdyZWUiPjwvYT4KClRoZSBmdXR1cmUtbW9zdCBlZmZl
-Y3RpdmUtZGF0ZWQgW0RlZ3JlZXNdKCNkZWdyZWUpIGZvciBhIHN0dWRlbnQu
-IFdoZW4gU0RQIGF1ZGl0cyBhIHN0dWRlbnQsIGl0IGF1ZGl0cyB0aGVpciBw
-dXJzdWVkIGRlZ3JlZXMuCgpJZiBQZW9wbGVTb2Z0J3MgYWNhZF9wcm9nICYg
-cGxhbiB0YWJsZXMgc3RhdGUgdGhhdCBhIHN0dWRlbnQgaXMgYSBDaGVtaXN0
-cnkgbWFqb3IgdG9kYXksIGJ1dCB0aGF0IHRoZSBzdHVkZW50IHdpbGwgYmVj
-b21lIGEgQmlvbG9neSBtYWpvciBuZXh0IHdlZWssIHRoZW4gQmlvbG9neSBp
-cyB0aGUgc3R1ZGVudCdzIFB1cnN1ZWQgRGVncmVlLgoKUHVyc3VlZCBEZWdy
-ZWVzIG9ubHkgdGFrZSBlZmZlY3RpdmUtZGF0ZSBpbnRvIGFjY291bnQuIFRo
-ZXkgZG9uJ3QgbG9vayBhdCB0aGUgZGVncmVlIHN0YXR1cy4gQSBkZWdyZWUg
-dGhhdCBpcyBDTSAoY29tcGxldGUpIG9yIERDIChkaXNjb250aW51ZWQpIGlz
-IHN0aWxsIGNvbnNpZGVyZWQgdG8gYmUgb25lIG9mIHRoZSBzdHVkZW50J3Mg
-UHVyc3VlZCBEZWdyZWVzCgojIyMgRHByb2c8YSBuYW1lPSJkcHJvZyI+PC9h
-PgoKQWxvbmcgd2l0aCBJbnN0Y2QsIG9uZSBvZiB0aGUgdHdvIG1haW4ga2V5
-cyBEYXJzIHVzZXMgdG8gaWRlbnRpZnkgYSBkZWdyZWUgcHJvZ3JhbS4gV2l0
-aG91dCBhIERwcm9nIGFuZCBJbnN0Y2QsIFNEUCBjYW4gbm90IHJ1biBhbiBB
-UEFTIGZvciB0aGUgZGVncmVlLgoKIyMjIFN0YWxlIEF1ZGl0PGEgbmFtZT0i
-c3RhbGVfYXVkaXQiPjwvYT4KCkFuIEF1ZGl0IHRoYXQgaXM6Ci0gW1Byb2Nl
-c3NlZF0oI3Byb2Nlc3NlZCkKLSBPdmVyIDQgd2Vla3Mgb2xkCi0gRm9yIGEg
-RGVncmVlIHRoYXQgaGFzIGEgc3RhdHVzIG90aGVyIHRoYW4gJ0RDJyBvciAn
-Q00nCg==
- encoding:base64 _links:self:https://github.umn.edu/api/v3/repos/asrweb/sdp/contents/README.md?ref=master _links:git:https://github.umn.edu/api/v3/repos/asrweb/sdp/git/blobs/926218b409fa6a9ba4f730537e310ab830652a27 _links:html:https://github.umn.edu/asrweb/sdp/blob/master/README.md
+Student Degree Progress
+==========================
+
+## Overview
+
+Runs [APAS](#apas) and saves the results. After saving, derives [Facts](#facts) about the APAS that can be used for reporting and analytics.
+
+### Which students are audited?
+
+Currently SDP focuses on Undergrad students at UMNTC.
+
+### When does SDP audit a student?
+
+There are a collection of tools that watch for changes to Student or Degree data. When that data changes, those tools tell SDP to audit the affected stdunts.
+
+Also, another tool will tell SDP to audit any Student with a [Stale Audit](#stale_audit).
+
+### What gets audited?
+
+When SDP [audits](#audit) a student, is uses live PeopleSoft data to determine the students [Pursued Degrees](#pursued_degree). SDP then audits any of those degrees that meet the following criteria:
+
+- Are for the UGRD acad_career
+- Are for the UMNTC institution
+- Are not Rochester degrees (e.g., acad_prog of 34UGR)
+- Are degree seeking (e.g., acad_plan_type is not NDG)
+- Have an admit term of 0999 or later
+
+If SDP has a [Frozen Audit](#frozen) for any of these degrees, it does not re-audit the degree.
+
+### What gets retained?
+
+SDP keeps one APAS for each [Degree](#degree). APAS for Degrees the student is no longer pursuing are removed.
+
+## Analytics
+
+Focuses on [Reportable Audits](#reportable).
+
+- Work with Fritz
+
+## Development
+
+- To do
+
+## Dictionary
+
+### APAS<a name="apas"></a>
+
+An academic progress report generated by the DARS system. A single APAS will report on the progress a student has mad in a single degree program.
+
+### Audit<a name="audit"></a>
+
+An APAS that has been copied into SDP and generated Facts about.
+
+### Facts<a name="facts"></a>
+
+A small bit of information that has been calculated by analyzing the APAS. There are a lot of these. Examples include:
+
+- Credit Count
+- Degree Complete
+- Missing Requirements
+- Degree-applicable credits per quarter
+
+#### Degree Complete Fact
+
+One of the more important facts. An Audit has this fact if Peoplesoft says that the 'prog_status' is 'CM'.
+
+### Reportable<a name="reportable"></a>
+
+A type of Audit classification. An Audit is Reportable if is Processed and has no [Dars Errors](#dars_error).
+
+### Processed<a name="processed"></a>
+
+A type of Audit classification. When we've finished copying and analyzing the APAS data, an audit is Processed.
+
+### Frozen<a name="frozen"></a>
+
+A type of Audit classification. An Audit is Frozen if is Reportable and has the Degree Complete fact.
+
+### Dars Error<a name="dars_error"></a>
+
+A type of Audit classification. An Audit is Dars Error if it exhibits any of the known Dars Error conditions. Those are:
+
+- SDP could not audit the degree because it could not find the Degree's [Dprog](#dprog)
+- Dars tried to run the APAS but failed
+- The APAS ran, but a course is missing from the 3 'standard buckets' at the end of the APAS report
+
+### Degree<a name="degree"></a>
+
+SDP's term for the joining of PeopleSoft's Acad_Prog and Acad_Plan tables to Dars' Dprog table. The join is done through the 'Crosswalk' table.
+
+### Pursued Degree<a name="pursued_degree"></a>
+
+The future-most effective-dated [Degrees](#degree) for a student. When SDP audits a student, it audits their pursued degrees.
+
+If PeopleSoft's acad_prog & plan tables state that a student is a Chemistry major today, but that the student will become a Biology major next week, then Biology is the student's Pursued Degree.
+
+Pursued Degrees only take effective-date into account. They don't look at the degree status. A degree that is CM (complete) or DC (discontinued) is still considered to be one of the student's Pursued Degrees
+
+### Dprog<a name="dprog"></a>
+
+Along with Instcd, one of the two main keys Dars uses to identify a degree program. Without a Dprog and Instcd, SDP can not run an APAS for the degree.
+
+### Stale Audit<a name="stale_audit"></a>
+
+An Audit that is:
+- [Processed](#processed)
+- Over 4 weeks old
+- For a Degree that has a status other than 'DC' or 'CM'
