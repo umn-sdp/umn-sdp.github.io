@@ -1,5 +1,20 @@
 # SDP Releases
 
+# 0.5.3
+
+- College Actionable now uses Live Peoplesoft for all possible columns
+  - https://github.umn.edu/asrweb/sdp/issues/192
+- When looking up Student IDs, use Live Peoplesoft data
+  - https://github.umn.edu/asrweb/sdp/issues/191
+- Include the dars error type in the error description
+  - https://github.umn.edu/asrweb/sdp/issues/188
+- Fix an error if we try to audit students with no auditable degrees
+  - https://github.umn.edu/asrweb/sdp/issues/183
+- Fix an error that had us retry a failed job exponentially increasing times
+  - https://github.umn.edu/asrweb/sdp/issues/184
+- Turn off Trigger code now that Work Queue is running
+  - https://github.umn.edu/asrweb/sdp/issues/185
+
 # 0.5.2
 
 - Bugfixes
