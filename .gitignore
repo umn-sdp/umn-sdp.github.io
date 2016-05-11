@@ -1,0 +1,6 @@
+.bundle
+bundle
+.rubocop.yml
+sdp
+sdp_reporting
+spec/tmp
