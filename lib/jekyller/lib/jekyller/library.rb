@@ -1,7 +1,7 @@
 require 'fileutils'
 
-module SdpDocumentation
-  WORKING_FOLDER = Pathname.new(File.join(SdpDocumentation.root, "tmp"))
+module Jekyller
+  WORKING_FOLDER = Pathname.new(File.join(Jekyller.root, "tmp"))
 
   class Library
     def initialize(repo:, source:, target:)
