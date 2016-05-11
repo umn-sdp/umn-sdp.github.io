@@ -1,10 +1,10 @@
 require_relative "../spec_helper"
-require_relative "../../lib/sdp_documentation"
+require_relative "../../lib/jekyller"
 
 require "fileutils"
 
 RSpec.describe "generating documentation" do
-  TEST_ROOT = File.join(SdpDocumentation.root, "spec", "tmp")
+  TEST_ROOT = File.join(Jekyller.root, "spec", "tmp")
   let(:documentation_root) { File.join(TEST_ROOT, "documentation") }
   let(:reference_root)     { File.join(TEST_ROOT, "reference") }
 
@@ -20,9 +20,9 @@ RSpec.describe "generating documentation" do
     end
 
     it "extracts documentation from the source locations and creates files in the proper location" do
-      sdp_views = SdpDocumentation::Library.new(repo: "sdp-testing/sdp", source: "app/models/db_audit_view", target: File.join(documentation_root, "views"))
-      sdp_facets = SdpDocumentation::Library.new(repo: "sdp-testing/sdp", source: "app/models/etl/audit/facet", target: File.join(documentation_root, "facets"))
-      reporting_views = SdpDocumentation::Library.new(repo: "sdp-testing/sdp_reporting", source: "lib/sdp_reporting/views", target: File.join(documentation_root, "views"))
+      sdp_views = Jekyller::Library.new(repo: "sdp-testing/sdp", source: "app/models/db_audit_view", target: File.join(documentation_root, "views"))
+      sdp_facets = Jekyller::Library.new(repo: "sdp-testing/sdp", source: "app/models/etl/audit/facet", target: File.join(documentation_root, "facets"))
+      reporting_views = Jekyller::Library.new(repo: "sdp-testing/sdp_reporting", source: "lib/sdp_reporting/views", target: File.join(documentation_root, "views"))
 
       [sdp_views, sdp_facets, reporting_views].each(&:document)
 
