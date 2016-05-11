@@ -6,11 +6,10 @@ url: "http://umn-sdp.github.io"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
-excerpt_separator: <!--break-->
 exclude: ["bin","README.md", "bundle", "Gemfile", "Gemfile.lock"]
 
 kramdown:
   input: GFM
-  syntax_highlighter: pygments
+  syntax_highlighter: rouge
