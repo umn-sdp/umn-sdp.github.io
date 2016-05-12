@@ -21,6 +21,12 @@ class DocumentationCLI < Thor
     system("git clone git@github.umn.edu:asrweb/sdp.git #{sdp_temp_dir}")
     system("cp #{File.join(sdp_temp_dir, 'README.md')} #{File.join(includes_dir, 'readme.md')}")
     system("cp #{File.join(sdp_temp_dir, 'CHANGELOG.md')} #{File.join(includes_dir, 'changelog.md')}")
+
+    system("git checkout master")
+    system("git pull --rebase origin master")
+    system("git add -A")
+    system("git commit -m 'Automated Documentation Update'")
+    system("git push origin master")
   end
 end
 
