@@ -21,7 +21,6 @@ When SDP [audits](#audit) a student, is uses live PeopleSoft data to determine t
 
 - Are for the UGRD acad_career
 - Are for the UMNTC institution
-- Are not Rochester degrees (e.g., acad_prog of 34UGR)
 - Are degree seeking (e.g., acad_plan_type is not NDG)
 - Have an admit term of 0999 or later
 
@@ -39,7 +38,13 @@ Focuses on [Reportable Audits](#reportable).
 
 ## Development
 
-- To do
+- Clone this repo
+- Configure Bundler with the username & password of the Sidekiq Pro gem server
+  - Credentials are in the `group_vars/sdp/private.yml` in our Ansible repository
+  - `bundle config gems.contribsys.com username:password`
+- `bundle install`
+- Run tests with `bundle exec rake`
+- Rebuild your development and test databases with `RAILS_ENV=[env] bundle exec rake db:rebuild`
 
 ## Dictionary
 

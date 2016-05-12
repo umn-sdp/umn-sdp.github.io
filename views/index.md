@@ -44,6 +44,7 @@ title: Views
 * [Elective Subrequirements](elective_subrequirements)
 * [Excluded Students](excluded_students)
 * [Expected Majors](expected_majors)
+* [Graduated Students](graduated_students)
 * [In Progress Courses](in_progress_courses)
 * [Non Umn Courses](non_umn_courses)
 * [Permanent Credit Exemptions](permanent_credit_exemptions)
