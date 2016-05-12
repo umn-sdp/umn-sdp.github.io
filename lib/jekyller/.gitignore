@@ -4,3 +4,4 @@ bundle
 sdp
 sdp_reporting
 spec/tmp
+tmp/*

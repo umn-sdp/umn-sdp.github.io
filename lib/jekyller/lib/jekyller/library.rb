@@ -29,6 +29,8 @@ module Jekyller
           end
         end
       end
+
+      remove_repo
     end
 
     private
@@ -36,7 +38,12 @@ module Jekyller
     attr_accessor :repo, :source, :target
 
     def get_repo(repo:)
-      system("rm -rf #{WORKING_FOLDER} && git clone git@github.umn.edu:#{repo} #{WORKING_FOLDER}")
+      remove_repo
+      system("git clone git@github.umn.edu:#{repo} #{WORKING_FOLDER}")
+    end
+
+    def remove_repo
+      system("rm -rf #{WORKING_FOLDER}")
     end
 
     def add_to_index(label:, path:)
