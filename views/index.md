@@ -55,6 +55,7 @@ title: Views
 * [Temporary Credit Exemptions](temporary_credit_exemptions)
 * [Term Current](term_current)
 * [Terms](terms)
+* [Transferred Students](transferred_students)
 * [Umn Course History Courses In Current Term](umn_course_history_courses_in_current_term)
 * [Umn Courses](umn_courses)
 * [Umn Courses In Current Term](umn_courses_in_current_term)
