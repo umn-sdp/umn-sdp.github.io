@@ -326,3 +326,27 @@ Uses data retrieved from the National Student Clearinghouse.
 - Student Dimensions: N/A
 
 From [Student Credit Exemptions](/views/student_credit_exemptions/)
+
+### APlus Retention Risk<a name="aplus_retention_risk"></a>
+
+- College Actionable: "APlus Retention Risk?"
+  - Values are "Yes" and "No"
+- Student Dimensions: N/A
+
+Based on student tag data received from APlus
+
+### APlus Financial Risk<a name="aplus_financial_risk"></a>
+
+- College Actionable: "APlus Financial Risk?"
+  - Values are "Yes" and "No"
+- Student Dimensions: N/A
+
+Based on student tag data received from APlus
+
+### APlus Degree Progress Risk<a name="aplus_degree_progress_risk"></a>
+
+- College Actionable: "APlus Degree Progress Risk?"
+  - Values are "Yes" and "No"
+- Student Dimensions: N/A
+
+Based on student tag data received from APlus
