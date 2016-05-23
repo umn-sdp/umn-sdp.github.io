@@ -4,6 +4,7 @@ title: Views
 ---
 
 * [All Degree Applicable Courses](all_degree_applicable_courses)
+* [College Actionable](college_actionable)
 * [Complete Majors](complete_majors)
 * [Course History Courses](course_history_courses)
 * [Course History Subrequirements](course_history_subrequirements)
