@@ -169,14 +169,6 @@ Contains the primary, active email addresses for all of the student's current ad
 
 Indicates if the student has an active suspension.
 
-### Suspended Institution<a name="suspended_inst"></a>
-
-- College Actionable: N/A
-- Student Dimensions: suspended_inst
-  - Defaults to 'Not Available'
-
-The institution where the student was suspended
-
 ### Athlete Indicator<a name="athlete_ind"></a>
 
 - College Actionable: "Athlete?"
