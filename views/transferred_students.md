@@ -8,4 +8,5 @@ Contains emplids of students that have transferred, according to National Studen
 Uses the [SDP Clearinghouse](https://github.umn.edu/sdp/clearinghouse/) to identify these students
 
 Columns:
+
 - emplid

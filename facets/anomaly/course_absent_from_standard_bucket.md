@@ -10,6 +10,7 @@ Requires that the Etl::Audit::Facet::GlobalStatistic::AuditType facet has alread
 A single audit can have many of these facets.
 
 Columns:
+
 - id: Auto-incremented primary key
 - etl_audit_id: Foreign key from etl_audits.id
 - etl_job_queue_course_id: Foreign key from etl_job_queue_course.id
